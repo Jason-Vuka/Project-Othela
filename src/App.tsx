@@ -53,7 +53,7 @@ export default function App() {
         <div className="absolute bottom-0 left-1/2 -translate-x-1/2 z-10 flex items-end gap-4 animate-scale-in">
           <div className="relative">
             <ImageWithFallback
-              src="https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=300&h=300&fit=crop"
+              src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/80a452ee-07db-4b3d-b876-9185b9799add/de0w4w3-4bb18257-58ca-42e3-82b2-a987587b76ad.png/v1/fill/w_943,h_847/lola_and_bugs_in_looney_tunes_cartoons_by_kareena08_de0w4w3-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE1MCIsInBhdGgiOiIvZi84MGE0NTJlZS0wN2RiLTRiM2QtYjg3Ni05MTg1Yjk3OTlhZGQvZGUwdzR3My00YmIxODI1Ny01OGNhLTQyZTMtODJiMi1hOTg3NTg3Yjc2YWQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.eKe5qBlCfdTD2cfdo-fW6WEGV4BIZ8RBM-CeRZHSufg?w=300&h=300&fit=crop"
               alt="Bugs Bunny"
               className="w-48 h-48 object-contain drop-shadow-lg"
             />
@@ -63,7 +63,7 @@ export default function App() {
           </div>
           <div className="relative">
             <ImageWithFallback
-              src="https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=300&h=300&fit=crop&flip=h"
+              src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/80a452ee-07db-4b3d-b876-9185b9799add/ddnh1wc-030b3f3a-1577-4120-9862-23464f72f6f0.png/v1/fit/w_768,h_431,q_70,strp/lola_bunny_tlts_original__space_jam__design_edit_1_by_kareena08_ddnh1wc-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDMxIiwicGF0aCI6Ii9mLzgwYTQ1MmVlLTA3ZGItNGIzZC1iODc2LTkxODViOTc5OWFkZC9kZG5oMXdjLTAzMGIzZjNhLTE1NzctNDEyMC05ODYyLTIzNDY0ZjcyZjZmMC5wbmciLCJ3aWR0aCI6Ijw9NzY4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.JoOCSuIEYSMf9u8ORbbopyIeugg6W7dVRTlXkYw6EDU?w=300&h=300&fit=crop&flip=h"
               alt="Lola Bunny"
               className="w-48 h-48 object-contain drop-shadow-lg"
             />
@@ -79,7 +79,7 @@ export default function App() {
           </div>
           <h1 className="text-6xl font-bold text-red-600 mb-4">Yay! 💕</h1>
           <p className="text-2xl text-red-700 mb-2">I knew you'd say yes!</p>
-          <p className="text-xl text-red-600">Happy Valentine's Day! ❤️</p>
+          <p className="text-xl text-red-600">Happy Valentine's Day Pretty girl! ❤️</p>
         </div>
       </div>
     );
@@ -90,7 +90,7 @@ export default function App() {
       {/* Background image - whitewashed */}
       <div className="absolute inset-0 z-0">
         <ImageWithFallback
-          src="https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=1200&h=800&fit=crop"
+          src="https://i.pinimg.com/originals/98/d7/33/98d7331f20f4139d7206708f50bbfacc.jpg?w=1200&h=800&fit=crop"
           alt="Looney Tunes"
           className="w-full h-full object-cover opacity-20"
         />
