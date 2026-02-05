@@ -1,7 +1,7 @@
 
   # Valentine's Day Web App
 
-  This is a code bundle for Valentine's Day Web App. The original project is available at https://www.figma.com/design/TwfxrKU55ubMaofxmKpVdU/Valentine-s-Day-Web-App.
+  This is a code bundle for Lola's Valentine's Day Web App. 
 
   ## Running the code
 
